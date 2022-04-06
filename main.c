@@ -5,7 +5,9 @@
 #include "parseh264.h"
 #include "rgb2yuv.h"
 
-
+/*
+	this is a great dream
+*/
 int main(int argc,char *argv[])
 {
 	char *path = "../src13.h264";
